@@ -64,14 +64,14 @@
   background-color: transparent;
   border: none;
   cursor: pointer;
-  background-image: url(./images/burger-button.svg);
+  background-image: url(../images/burger-button.svg);
   transition: opacity 0.4s ease;
   position: relative;
   display: none;
 }
 
 .burger-button_opened {
-  background-image: url(./images/burger-button-black.svg);
+  background-image: url(../images/burger-button-black.svg);
 }
 
 .burger-button:hover {
@@ -187,7 +187,7 @@
   position: absolute;
   right: -30px;
   top: -30px;
-  background-image: url(./images/cross-icon.svg);
+  background-image: url(../images/cross-icon.svg);
   background-size: cover;
   cursor: pointer;
   border: none;
